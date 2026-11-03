@@ -1,0 +1,23 @@
+# No input data or generated study outputs belong in this code-only release.
+data/
+results/
+outputs/
+private_validation/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.mp4
+*.docx
+*.pdf
+*.zip
+*.pkl
+*.parquet
+*.log
+*.bak*
+.env*
+.streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
